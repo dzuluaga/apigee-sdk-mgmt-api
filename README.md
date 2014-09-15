@@ -1,6 +1,6 @@
 apigee-sdk-mgmt-api
 =====
-This SDK provides a simple abstraction of Apigee Management API to be leveraged by any other framework such as (Apigee Deploy Grunt.js Plugin)[https://github.com/apigeecs/apigee-deploy-grunt-plugin].
+This SDK provides a simple abstraction of Apigee Management API to be leveraged by any other framework such as [Apigee Deploy Grunt.js Plugin](https://github.com/apigeecs/apigee-deploy-grunt-plugin).
 
 Contributing
 =====
