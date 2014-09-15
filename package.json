@@ -1,14 +1,11 @@
 {
-  "name": "apigee-sdk-mgmt-api.js",
-  "version": "1.0.1",
+  "name": "apigee-sdk-mgmt-api",
+  "version": "1.0.0",
   "description": "A short JavaScript SDK for Apigee Management API",
   "main": "lib/apigee-sdk-mgmt-api.js",
-  "scripts": {
-    "test": "mocha test/*.js"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dzuluaga/apigee-sdk-mgmt-api.js.git"
+    "url": "https://github.com/dzuluaga/apigee-sdk-mgmt-api.git"
   },
   "keywords": [
     "Apigee",
@@ -21,13 +18,12 @@
   "author": "Diego Zuluaga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dzuluaga/apigee-sdk-mgmt-api.js/issues"
+    "url": "https://github.com/dzuluaga/apigee-sdk-mgmt-api/issues"
   },
-  "homepage": "https://github.com/dzuluaga/apigee-sdk-mgmt-api.js",
+  "homepage": "https://github.com/dzuluaga/apigee-sdk-mgmt-api",
   "devDependencies": {
     "mocha": "",
     "request": "^2.42.0",
     "should": ""
-  },
-  "bin": { "sleep-sort": "./bin/sleep-sort" }
+  }
 }
