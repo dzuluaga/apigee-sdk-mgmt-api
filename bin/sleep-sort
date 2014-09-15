@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+// bin/sleep-sort
+var sleepsort = require('../lib/apigee-sdk-mgmt-api');
+
+var args = process.argv.slice(2);
+sleepsort(args, console.log);
